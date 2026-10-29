@@ -65,4 +65,4 @@ Alternatively, upload the Python file to Google Colab and run the code in a cell
 
 ## GitHub Repository Link
 
-Add your repository URL here.
+https://github.com/Onima0015/tic-tac-toe-ai
